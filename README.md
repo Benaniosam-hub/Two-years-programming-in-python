@@ -11,3 +11,8 @@ hello there
 
 ### Explain the difference between __new__ and __init__.
 hello there
+
+# Data Structures & Advanced Types
+
+### What is a generator and what is the yield keyword?
+hello there
