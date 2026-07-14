@@ -16,3 +16,6 @@ hello there
 
 ### What is a generator and what is the yield keyword?
 hello there
+
+### how do list comprehensions differ from generator expressions?
+hello there
