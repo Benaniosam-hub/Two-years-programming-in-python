@@ -22,3 +22,14 @@ hello there
 
 ### What is the difference between is and ==?
 hello there
+
+# Concurrency & Deep Dive
+
+### What is the Global Interpreter Lock (GIL)?
+hello there
+
+### How do multi-threading and muilti-processing differ in Python?
+hello there
+
+### What is *args and **kwargs?
+hello there
