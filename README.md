@@ -33,3 +33,11 @@ hello there
 
 ### What is *args and **kwargs?
 hello there
+
+# Object-Oriented Programming (OOP)
+
+### How does multiple inheritance work in Python?
+hello there
+
+### What is the purpose of self in Python classes?
+hello there
