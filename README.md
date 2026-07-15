@@ -14,8 +14,15 @@ A comprehensive list of 50 Python interview questions categorized by topic. Use 
 ### Core Python Concepts
 
 1. What is the difference between a list and a tuple?
+- lists are mutable and tuples are immutable
+- tuples allocates less memory than list
+- list [] brackets and tuple () brackets 
 2. How is memory managed in Python?
+- python stores all objects in private heap
+- automated Garbage collection
+- reference counting used to track how many reference point to them
 3. What are Python decorators and how do you write a custom one?
+- 
 4. What is the difference between a deep copy and a shallow copy?
 5. What are the formatting rules defined in PEP 8?
 6. What is the difference between the `is` operator and the `==` operator?
