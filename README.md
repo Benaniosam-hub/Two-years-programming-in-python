@@ -1,7 +1,13 @@
 # Core Language Mechanics
 
 ### What is difference between list and tuples?
-hello there
+List is mutable were tuples are immutable 
+
+list1 = ["apple","mango","orange"]
+list1.append("graps")
+
+tup1 = (1,2,3,4)
+tup1.append(5) # error occurs 
 
 ### How does python manage memory?
 hello there
