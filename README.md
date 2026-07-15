@@ -1,6 +1,6 @@
 # Core Language Mechanics
 
-### What is difference between list and tuples?
+## What is difference between list and tuples?
 List is mutable were tuples are immutable 
 
 list1 = ["apple","mango","orange"]
