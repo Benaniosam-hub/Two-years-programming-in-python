@@ -22,7 +22,22 @@ A comprehensive list of 50 Python interview questions categorized by topic. Use 
 - automated Garbage collection
 - reference counting used to track how many reference point to them
 3. What are Python decorators and how do you write a custom one?
-- 
+  python decorators allows to modify or extend the behavioural function or method without changing its source code
+- def my_decorator(func):
+    def wrapper(*args,**kwargs):
+        print("----")
+        func(*args,**kwargs)
+        print(args)
+        print(kwargs)
+        print("=====")
+    return wrapper
+
+@my_decorator
+def say_ola(*args,**kwargs):
+    print("Hello sir")
+
+say_ola(idly="soft")
+
 4. What is the difference between a deep copy and a shallow copy?
 5. What are the formatting rules defined in PEP 8?
 6. What is the difference between the `is` operator and the `==` operator?
