@@ -19,7 +19,8 @@ def my_decorator(func):
         print(kwargs)
         print("=====")
     return wrapper
-
+'''
+'''
 @my_decorator
 def say_ola(*args,**kwargs):
     print("Hello sir")
